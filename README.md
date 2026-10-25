@@ -29,3 +29,7 @@ Data is kept in memory, so it resets each time the app restarts.
 | `MainView.java` | Main page: filter field, "New customer" button and grid |
 | `CustomerEditor.java` | Form for saving, cancelling and deleting |
 | `CrudwithvaadinApplication.java` | Entry point; loads the demo data |
+
+
+## Addition
+student Emil73549 did contribution
